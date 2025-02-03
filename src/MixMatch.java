@@ -1,4 +1,4 @@
-public class Hello {
+public class MixMatch {
    public static void main(String[] ars) {
        // variables declared
        String strgVar = "Hello World";
